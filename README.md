@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlexanderJayChapman
-- 👀 I’m interested in social networks in health and focusing on substance mis/use
+- 👀 I’m interested in social networks, family, and health. I focus on substance mis/use.
 - 🌱 I’m currently learning GitHub!
-- 💞️ I’m looking to collaborate on everything. I think projects are better with a team.
+- 💞️ I’m looking to collaborate on everything. Projects are better with a team.
 - 📫 How to reach me, see profile notes!
 
 <!---

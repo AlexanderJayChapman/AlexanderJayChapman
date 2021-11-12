@@ -1,4 +1,4 @@
-I’m @AlexanderJayChapman
+I’m @AlexanderJayChapman.
 My interests include social networks, family, substance mis/use, and health.
 My profile notes show ways to contact me.
 

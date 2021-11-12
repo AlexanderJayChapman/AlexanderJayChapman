@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @AlexanderJayChapman
-- 👀 I’m interested in social networks, family, and health. I focus on substance mis/use.
-- 🌱 I’m currently learning GitHub!
-- 💞️ I’m looking to collaborate on everything. Projects are better with a team.
-- 📫 How to reach me, see profile notes!
+I’m @AlexanderJayChapman
+My interests include social networks, family, substance mis/use, and health.
+My profile notes show ways to contact me.
 
 <!---
 AlexanderJayChapman/AlexanderJayChapman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
